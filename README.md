@@ -107,14 +107,12 @@ A full-stack alumni networking platform connecting students and alumni.
 
 ---
 
-# 📊 GitHub Statistics
 
 <!-- <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhura0805&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura0805&layout=compact&theme=tokyonight&hide_border=true"/>
 </p> -->
 
-# 🔥 Contribution Streak
 
 <!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=madhura0805&theme=tokyonight&hide_border=true"/>
