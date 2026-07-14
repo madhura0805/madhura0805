@@ -2,7 +2,7 @@
 <h3 align="center">Information Technology Undergraduate | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Full-Stack+Developer;Java+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New!"/>
 </p>
 
 ---
