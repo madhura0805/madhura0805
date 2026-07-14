@@ -116,9 +116,9 @@ A full-stack alumni networking platform connecting students and alumni.
 
 # 🔥 Contribution Streak
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=madhura0805&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -134,7 +134,7 @@ A full-stack alumni networking platform connecting students and alumni.
 
 📧 **Email:** d.madhura888@gmail.com
 
-💼 **LinkedIn:** *([Add your LinkedIn profile link here](https://www.linkedin.com/in/madhura-deshmukh-0692a5277/))*
+💼 **LinkedIn:** *(https://www.linkedin.com/in/madhura-deshmukh-0692a5277/)*
 
 💻 **GitHub:** https://github.com/madhura0805
 
