@@ -25,18 +25,6 @@
 - 🚀 Building impactful full-stack applications
 
 ---
-
-## 💼 Internship Experience
-
-### Full-Stack Developer Intern | PICT IT Department
-
-- Developed an **Activity Management System** using **React, Node.js, Express, and MongoDB**.
-- Implemented automated email notifications using **Node-cron** and **Nodemailer**.
-- Improved backend performance through schema optimization and query indexing.
-- Built dashboards and reporting modules for activity tracking.
-
----
-
 # 🚀 Featured Projects
 
 ## 🌱 Digital Product Passport
@@ -117,8 +105,6 @@ A full-stack alumni networking platform connecting students and alumni.
 <!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=madhura0805&theme=tokyonight&hide_border=true"/>
 </p> -->
-
----
 
 # 🏆 Achievements
 
